@@ -31,12 +31,12 @@ body {
   font-size: 6.25rem;
 }
 .display-2 {
-  font-family: 'Baloo 2', display;
-  font-size: 3.8rem;
+  font-family: 'Golos Text', sans-serif;
+  font-size: 2.2rem;
   line-height: 1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.75rem;
+  font-size: 2.75rem;
 }
 .display-4 {
   font-family: 'Inter Tight', sans-serif;
@@ -47,7 +47,7 @@ body {
   font-size: 1.25rem;
 }
 .display-5 {
-  font-family: 'Inter Tight', sans-serif;
+  font-family: 'Golos Text', sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -55,7 +55,7 @@ body {
   font-size: 1.5rem;
 }
 .display-7 {
-  font-family: 'Inter Tight', sans-serif;
+  font-family: 'Golos Text', sans-serif;
   font-size: 1rem;
   line-height: 1.3;
 }
@@ -79,9 +79,9 @@ body {
     line-height: calc( 1.1 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 3.04rem;
-    font-size: calc( 1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.76rem;
+    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -106,9 +106,9 @@ body {
     line-height: calc( 1.1 * (2.4rem + (5 - 2.4) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-2 {
-    font-size: 3.04rem;
-    font-size: calc( 1.98rem + (3.8 - 1.98) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.3 * (1.98rem + (3.8 - 1.98) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 1.76rem;
+    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.3 * (1.42rem + (2.2 - 1.42) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -648,7 +648,7 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'Inter Tight', sans-serif;
+  font-family: 'Golos Text', sans-serif;
   font-size: 1rem;
   line-height: 1.3;
   font-weight: 400;
@@ -663,7 +663,7 @@ a:hover {
   border-color: #87ceeb !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Inter Tight', sans-serif;
+  font-family: 'Golos Text', sans-serif;
   font-size: 1rem;
   line-height: 1.3;
   font-weight: 400;
@@ -1248,9 +1248,9 @@ a {
 .cid-uOVs5OlXEU .social-list {
   color: #000000;
 }
-.cid-uOVsqDI6Yk {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-uRTczx3kR6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #052736;
   overflow: hidden;
 }
@@ -1773,9 +1773,9 @@ a {
 .cid-uOVs5OlXEU .social-list {
   color: #000000;
 }
-.cid-uOVsqDI6Yk {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-uRTczx3kR6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #052736;
   overflow: hidden;
 }
@@ -2246,9 +2246,9 @@ a {
 .cid-uOVs5OlXEU .social-list {
   color: #000000;
 }
-.cid-uOVsqDI6Yk {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-uRTczx3kR6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #052736;
   overflow: hidden;
 }
@@ -2687,9 +2687,9 @@ a {
 .cid-uOVs5OlXEU .social-list {
   color: #000000;
 }
-.cid-uOVsqDI6Yk {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-uRTczx3kR6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #052736;
   overflow: hidden;
 }
@@ -3180,9 +3180,9 @@ a {
 .cid-uOVs5OlXEU .social-list {
   color: #000000;
 }
-.cid-uOVsqDI6Yk {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-uRTczx3kR6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #052736;
   overflow: hidden;
 }
@@ -3654,9 +3654,9 @@ a {
 .cid-uOVs5OlXEU .social-list {
   color: #000000;
 }
-.cid-uOVsqDI6Yk {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-uRTczx3kR6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #052736;
   overflow: hidden;
 }
@@ -4135,9 +4135,9 @@ a {
 .cid-uOVs5OlXEU .social-list {
   color: #000000;
 }
-.cid-uOVsqDI6Yk {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-uRTczx3kR6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #052736;
   overflow: hidden;
 }
@@ -4608,9 +4608,9 @@ a {
 .cid-uOVs5OlXEU .social-list {
   color: #000000;
 }
-.cid-uOVsqDI6Yk {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-uRTczx3kR6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #052736;
   overflow: hidden;
 }
@@ -5108,9 +5108,9 @@ a {
 .cid-uOVs5OlXEU .social-list {
   color: #000000;
 }
-.cid-uOVsqDI6Yk {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-uRTczx3kR6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #052736;
   overflow: hidden;
 }
@@ -5497,15 +5497,15 @@ a {
   object-fit: contain;
   border-radius: 0 !important;
 }
-.cid-uRjbgyfsam {
+.cid-uRT0XCdOM3 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #82b4ca;
+  background-color: #7cc3e0;
 }
-.cid-uRjbgyfsam .mbr-fallback-image.disabled {
+.cid-uRT0XCdOM3 .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uRjbgyfsam .mbr-fallback-image {
+.cid-uRT0XCdOM3 .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -5514,40 +5514,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uRjbgyfsam .image-wrap img {
+@media (max-width: 991px) {
+  .cid-uRT0XCdOM3 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uRT0XCdOM3 .row {
+  flex-direction: row-reverse;
+}
+.cid-uRT0XCdOM3 img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-uRjbgyfsam .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 90%;
+  .cid-uRT0XCdOM3 .text-wrapper {
+    padding: 2rem;
   }
-}
-.cid-uRjbgyfsam .row-links {
-  width: 100%;
-  justify-content: center;
-}
-.cid-uRjbgyfsam .header-menu {
-  margin-top: 2rem;
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-uRjbgyfsam .header-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-uRjbgyfsam .header-menu li p {
-  margin: 0;
-}
-.cid-uRjbgyfsam .content-head {
-  max-width: 800px;
-}
-.cid-uRjbgyfsam .mbr-section-title {
-  color: #000000;
 }
 .cid-uNGswgwrdn {
   padding-top: 5rem;
@@ -5669,9 +5650,9 @@ a {
 .cid-uOVs5OlXEU .social-list {
   color: #000000;
 }
-.cid-uOVsqDI6Yk {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-uRTczx3kR6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #052736;
   overflow: hidden;
 }
